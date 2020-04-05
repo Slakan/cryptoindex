@@ -69,14 +69,12 @@ Options:
 ```
 
 ## Example of usage
+#### cryptoindex check price --coin=BTC --cur=NOK
 ```
-cryptoindex check price --coin=BTC --cur=NOK
-
 BTC (Bitcoin) | Price: NOK 72,134.76 | Rank: 1
 ```
 
+#### cryptoindex check interval --coin=ETH --cur=NOK --days=7
 ```
-cryptoindex check interval --coin=ETH --cur=NOK --days=7
-
 Coin: ETH(Ethereum) | Price changed in 7d: NOK 116.43
 ```
